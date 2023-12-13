@@ -21,7 +21,7 @@ def read_data_all(filename):
     df_t.index = df_t.index.astype(int)
     return df,df_t
 
-#def read_data_bar
+#def read_data_bars
 
  
 
